@@ -2,6 +2,8 @@
 test
 log
 pepe
+dg
+benchmark.c
 
 # Prerequisites
 *.d
